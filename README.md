@@ -8,7 +8,7 @@ Solame is a simple Python solar-cell simulator for planar devices which targets 
 - Outputs: J–V curve, Voc, Jsc, FF, efficiency
 - Plots: J–V, generation vs depth
 
-  **Limitations**
+**Limitations**
   
 - No interference effects (use TMM in a future version).
 - No full drift–diffusion (planned via Sesame).
